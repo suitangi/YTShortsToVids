@@ -20,4 +20,4 @@ You can download a zipped version [here](https://github.com/suitangi/YTShortsToV
 
 1. Navigate to  [chrome://extensions/](chrome://extensions/)
 2. Make sure `Developer Mode` is enabled on the top right.
-3. Click 'Load Unpacked' and then select the root folder of where you saved the extension.
+3. Click 'Load Unpacked' and then select the `chrome-extension` directory.
