@@ -1,4 +1,4 @@
-# YTShortsToVids
+![icon](https://raw.githubusercontent.com/suitangi/YTShortsToVids/main/chrome-extension/icons/icon48.png) # YTShortsToVids
 Automatically redirects Youtube shorts to videos.
 Youtube shorts have no options for video controls, this extension automatically redirects the shorts URL to video URL so Youtube shorts will show up as normal Youtube Videos.
 
