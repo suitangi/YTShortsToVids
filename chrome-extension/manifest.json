@@ -1,6 +1,6 @@
 {
   "name": "Youtube Shorts to Videos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "short_name": "YTShorts2Vids",
   "description": "Automatically redirects Youtube shorts to videos.",
   "manifest_version": 3,
