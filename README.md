@@ -13,7 +13,7 @@ git clone https://github.com/suitangi/Minimal-Newtab.git
 ```
 
 ##### Downloading zipped file:
-You can download a zipped version [here](https://github.com/suitangi/YTShortsToVids/releases/download/Zip/YTShorts2Vids-chrome-extension.zip). Then unzip it wherever you like.
+You can download the latest zipped version [here](https://github.com/suitangi/YTShortsToVids/releases/download/1.0.1/YTShorts2Vids-chrome-extension1.0.1.zip). Then unzip it wherever you like.
 
 #### Installation
 
